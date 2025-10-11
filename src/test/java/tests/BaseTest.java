@@ -9,7 +9,6 @@ import page.LoginPage;
 import page.ProductsPage;
 import utils.PropertyReader;
 
-
 public class BaseTest {
     LoginPage loginPage;
     ProductsPage productsPage;
